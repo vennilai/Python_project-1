@@ -6,7 +6,7 @@ Rules:Rock wins against scissors
       0-for Rock
       1-for paper
       2-for scissors
-user_choice    computer_choice
+      user_choice    computer_choice
       0----------------0 Draw the game
       0                1 computer wins
       0                2 user wins
